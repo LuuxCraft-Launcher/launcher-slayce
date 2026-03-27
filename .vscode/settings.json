@@ -1,9 +1,9 @@
 {
-    "files.exclude": {
-        "**/.github": true,
-        "**/node_modules": true,
-        "**/dist": true,
-        "**/app": true,
-        "**/.gitignore": true
-    }
+  "files.exclude": {
+    "**/.github": true,
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/app": true,
+    "**/.gitignore": true
+  }
 }
